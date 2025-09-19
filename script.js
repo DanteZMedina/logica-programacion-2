@@ -68,7 +68,7 @@ let fahrenheit = fahrenheitConversion(celsius);
 let kelvin = kelvinConversion(celsius);
 
 console.log(celsius + "°C son " + fahrenheit + "°F");
-console.log(celsius + "°C son " + kelvin + "°git statuK");
+console.log(celsius + "°C son " + kelvin + "°K");
 
 
 
